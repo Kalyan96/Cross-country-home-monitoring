@@ -1,0 +1,6 @@
+2023-09-20 14:47:36,546 [INFO] Reset the ESP module via serial
+2023-09-20 14:47:39,551 [INFO] Waited for 3 seconds after reset
+2023-09-20 14:48:54,097 [INFO] Initialized video capture
+2023-09-20 14:48:54,097 [INFO] Initialized motion detection variables
+2023-09-20 14:48:54,098 [INFO] Closed the serial port
+2023-09-20 14:48:54,112 [INFO] Released video capture and closed OpenCV windows
